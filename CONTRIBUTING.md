@@ -9,9 +9,9 @@ This is a project to calculate simple interest over an amount/principal.
 
 ---
 
-### ⚙ Free Web Dev Tools
+### Links
 
--  [LICENSE](https://google.com/chrome/)
--  [README.md](https://chrome.google.com/webstore/detail/dark-new-tab/kcphhkbdlfggickaoeiahdcfhagfbajl?hl=en)
--  [CODE_OF_CONDUCT](https://code.visualstudio.com/)
--  [simple-interest.sh](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+-  [LICENSE](https://github.com/sripragnaneti/simple-interest-project/blob/main/LICENSE)
+-  [README.md](https://github.com/sripragnaneti/simple-interest-project/blob/main/README.md)
+-  [CODE_OF_CONDUCT](https://github.com/sripragnaneti/simple-interest-project/blob/main/CODE_OF_CONDUCT.md)
+-  [simple-interest.sh](https://github.com/sripragnaneti/simple-interest-project/blob/main/simple-interest.sh)
