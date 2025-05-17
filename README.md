@@ -10,7 +10,9 @@ Total-Amt = P + SI
 
 ---
 
-## The Simple Interest is calculated in the shell script file. It inputs the Principal (P), Time in years (T), Annual Rate (R) and outputs the Simple Interest (SI) and the total Amount. 
+## Details
+
+The Simple Interest is calculated in the shell script file. It inputs the Principal (P), Time in years (T), Annual Rate (R) and outputs the Simple Interest (SI) and the total Amount. 
 
 ---
 
