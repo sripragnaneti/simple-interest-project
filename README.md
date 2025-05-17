@@ -1,6 +1,6 @@
 ## simple-interest-project
 
-# This project calculates simple interest in shell script file using the formula
+This project calculates simple interest in shell script file using the formula
 SI = PTR/100
 Total-Amt = P + SI
 
