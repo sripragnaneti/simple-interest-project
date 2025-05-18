@@ -1,19 +1,8 @@
-# SIMPLE INTEREST PROJECT
----
-### README.MD
-
----
-
-This project calculates simple interest in shell script file using the formula
-SI = PTR/100
-Total-Amt = P + SI
-
----
-
-## Details
-
-The Simple Interest is calculated in the shell script file. It inputs the Principal (P), Time in years (T), Annual Rate (R) and outputs the Simple Interest (SI) and the total Amount. 
-
----
-
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 
